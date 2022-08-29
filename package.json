@@ -18,9 +18,9 @@
   "author": " Gabriella ",
   "license": "MIT",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/GabriellaLella/Gabriella-Bot/issues"
   },
-  "homepage": "https://github.com/NuevaGeneracionALB/aleatory-md#readme",
+  "homepage": "https://github.com/GabriellaLella/Gabriella-Bot#readme",
   "dependencies": {
     "@adiwajshing/baileys": "github:adiwajshing/baileys",
     "@adiwajshing/keyed-db": "^0.2.4",
