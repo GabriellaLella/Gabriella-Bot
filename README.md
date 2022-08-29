@@ -17,8 +17,8 @@ bot per whatsapp con numerosi comandi
 • pkg install ffmpeg -y
 • pkg install nodejs -y
 •pkg install git -y
-• git clone  https://github.com/GabriellaLella/Gabr-Bot
+• git clone  https://github.com/GabriellaLella/Gabriella-Bot
 • ls
-• cd Gabr-Bot
+• cd Gabriella-Bot
 • npm i
 • npm start
