@@ -1,11 +1,11 @@
-const cmd_termux = (prefix) => {
-return `
-SÓ DEVO LEMBRAR QUE O TERMUX DA PLAY STORE NÃO PRESTA, ENTÃO INSTALE O 118 POR LÁ 
+const cmd_termux = (prefisso) => {
+ritorno `
+RICORDA SOLO CHE IL PLAY STORE TERMUX NON FUNZIONA, QUINDI INSTALLA IL 118 QUI
 
-> aleatoryapi.herokuapp.com 
+> aleatoryapi.herokuapp.com
 
 
-Comandos Básicos do termux, nescessario para inicialização do bot:
+Comandi di base di termux, necessari per l'avvio del bot:
 
 
 - _1 COMANDO :
@@ -13,26 +13,26 @@ Comandos Básicos do termux, nescessario para inicialização do bot:
 
 termux-change-repo
 
-APERTA OK
+PREMERE OK
 
-_-_-_       _-_-_.        _-_-_
+_-_-_ _-_-_. _-_-_
 
-MARCA A TERCEIRA CAIXINHA E APERTA OK.
+SEGNA LA TERZA CASELLA E PREMERE OK.
 
-_-_-_      _-_-_-        _-_-_-
+_-_-_ _-_-_- _-_-_-
 
 
 _2 COMANDO
 
 
-pkg upgrade -y 
+pkg aggiornamento -y
 
 
-ASSISTA O VIDEO, ALGUMAS VEZES QUANDO PAUSAR É NESCESSARIO DA ENTER, VAI PAUSAR A AÇÃO E VAI APARECER [default=N] ?
+GUARDA IL VIDEO, QUALCHE VOLTA QUANDO È NECESSARIA LA PAUSA PER ENTRARE, SI PAUSA L'AZIONE E APPARIRÀ [default=N] ?
 
 _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
 
-_3 COMANDO 
+_3 COMANDO
 
 
 pkg update -y
@@ -47,21 +47,21 @@ termux-setup-storage
 
 _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
 
-_5 COMANDO 
+_5 COMANDO
 
 
 pkg install nodejs -y
 
 _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
 
-_6 COMANDO 
+_6 COMANDO
 
 
 pkg install nodejs-lts -y
 
 _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
 
-_7 COMANDO 
+_7 COMANDO
 
 
 pkg install git -y
@@ -69,7 +69,7 @@ pkg install git -y
 _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
 
 
-_8 COMANDO 
+_8 COMANDO
 
 
 pkg install ffmpeg -y
@@ -77,7 +77,7 @@ pkg install ffmpeg -y
 _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
 
 
-_9 COMANDO NESCESSARIO PRA O HEROKU
+_9 COMANDO RICHIESTO PER HEROKU
 
 
 npm i -g npm@6 && npm i heroku -g
@@ -86,7 +86,7 @@ npm i -g npm@6 && npm i heroku -g
 _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
 
 
-PRONTO, BOA SORTE... 
+OK BUONA FORTUNA...
 
 
 `
